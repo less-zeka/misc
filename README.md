@@ -1,7 +1,7 @@
 # misc
 http://cheese-maker.ch
 
-An Javascript / jQuery clicker game implemented in 2 hours.
+A Javascript / jQuery clicker game implemented in 2 hours.
 
 http://grrif.cheese-maker.ch
 
