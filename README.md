@@ -7,4 +7,4 @@ A Javascript / jQuery clicker game implemented after watching
 
 http://grrif.cheese-maker.ch
 
-A ultra slim player for http://grrif.ch an awesome radio station 
+Ultra slim player for [Grrif](http://grrif.ch) an awesome radio station 
