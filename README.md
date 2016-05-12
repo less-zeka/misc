@@ -9,4 +9,4 @@ inspired by @nowayshecodes
 
 http://grrif.cheese-maker.ch
 
-A ultra slim player for http://grrif.ch an awesome radio station implemented in 15 minutes.
+A ultra slim player for http://grrif.ch an awesome radio station 
