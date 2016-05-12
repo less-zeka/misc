@@ -1,8 +1,8 @@
 # misc
+http://cheese-maker.ch
+
+An Javascript / jQuery clicker game implemented in 2 hours.
+
 http://grrif.cheese-maker.ch
 
-A jQuery clicker game. 
-
-http://grrif.cheese-maker.ch
-
-A ultra slim player for http://grrif.ch an awesome radio station
+A ultra slim player for http://grrif.ch an awesome radio station implemented in 15 minutes.
