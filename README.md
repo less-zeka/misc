@@ -1,4 +1,4 @@
-# misc
+# Misc Less Prototypes
 http://cheese-maker.ch
 
 A Javascript / jQuery clicker game implemented in 2 hours.
