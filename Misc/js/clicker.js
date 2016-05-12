@@ -59,4 +59,4 @@ $(document).ready(function () {
         $(".newGame").removeClass('hidden');
         $("#scoreBoard").addClass("jumbotron");
     }
-})
+});
